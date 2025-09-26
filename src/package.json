@@ -1,0 +1,35 @@
+{
+  "name": "bluemercantile-web3",
+  "version": "1.0.0",
+  "description": "BlueMercantile Web3 Dashboard with MetaMask Integration",
+  "main": "App.tsx",
+  "dependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "ethers": "^6.8.0",
+    "lucide-react": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sonner": "^2.0.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "web3",
+    "ethereum",
+    "metamask",
+    "carbon-credits",
+    "blockchain",
+    "react",
+    "nextjs"
+  ],
+  "author": "BlueMercantile Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^4.1.0"
+  }
+}
